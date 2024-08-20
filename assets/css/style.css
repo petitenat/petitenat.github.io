@@ -698,6 +698,9 @@ h3,
 }
 
 @media all and (max-width:968px){
+    .accueil-nuage-mots div p{
+        width: 33%;
+    }
     .accueil-nuage-mots div p:nth-child(2n){
         display: none;
     }
