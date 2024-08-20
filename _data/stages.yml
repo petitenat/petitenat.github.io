@@ -1,0 +1,32 @@
+survie-douce-deux-jours:
+  - title: Survie Douce sur le Week-End ou 2 jours
+    description: >
+                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                 <br>
+                 Mauris porta elit vel tempor laoreet. Integer malesuada placerat sem, non pharetra urna suscipit at.
+                 <br>
+                 Curabitur sed metus ut nulla placerat scelerisque at ut turpis. Nunc congue lacus elementum eros ultrices, a pulvinar ex pellentesque.
+    details:
+      - date: "Du 12 juin 2024 au 14 juin 2024"
+        lieu: "Foret de Blanchefort"
+        description: "Départ Gare Eymoutier. Dénivelé et difficulté de la marche : faible."
+      - date: "Du 20 juillet 2024 au 22 juillet 2024"
+        lieu: "Lieu inconnu"
+        description: "Départ depuis Juzet-d'Isaut à proximité de la gare de Saint-Gaudens.
+                      <br>Dénivelé et difficulté de la marche : moyen à fort."
+    prix:
+      - type: "Normal"
+        montant: 200
+
+survie-douce-six-jours:
+  - title: Survie Douce sur 6 jours
+    details:
+      - date: "Du 12 juin 2024 au 14 juin 2024"
+        lieu: "Foret de Blanchefort"
+      - date: "Du 20 juillet 2024 au 22 juillet 2024"
+        lieu: "Lieu inconnu"
+    prix:
+      - type: "Normal"
+        montant: 200
+      - type: "Étudiant"
+        montant: 170
